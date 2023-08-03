@@ -28,13 +28,19 @@ export default function UiPage() {
 font-playfairDisplay
 text-[40px]
  normal
-font-[700] leading-norma"
+font-[700] leading-normal"
               >
                 <p>An Investment in Knowledge</p> pays the best interest
               </h1>
-              <h1>
-                It is a long established fact that a reader will be distracted
-                by the readable content of a page when.
+              <h1
+                className="text-[#FFF] font-playfairDisplay
+text-[24px]
+ normal
+font-[700] leading-normal"
+              >
+                <p>It is a long established fact that a reader</p>
+                <p>will be distracted by the readable content</p>
+                of a page when.
               </h1>
             </div>
           </div>
