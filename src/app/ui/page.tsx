@@ -90,7 +90,7 @@ text-[12px]
                 Services
               </div>
             </div>
-            <img src="/group.png" className="pt-[50px]" />
+            <img src="/Group.png" className="pt-[50px]" />
           </div>
         </div>
 
